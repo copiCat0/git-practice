@@ -1,2 +1,4 @@
 hello world
 hi lion
+double
+like lion
